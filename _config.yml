@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7466ee2d5cec8c5c2680                            #生成的clientID
-  clientSecret: ba54b0ff8c452902ad4d00a640405488e2838fc9    #生成的clientSecret
+  clientID: 7466ee2d5cec8c5c2680   #生成的clientID
+  clientSecret: 9a063e1cb446feb596b2548c5f19e1776c38bce6  #同上
   repo: tengfeihou.github.io    #仓库名称
   owner: TengfeiHou    #github用户名
   admin: TengfeiHou
