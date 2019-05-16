@@ -1,17 +1,17 @@
 # Site settings
-title: BY Blog
-SEOTitle: TF_HOU的博客 | BY Blog
+title: My ZONE
+SEOTitle: TF_HOU的博客
 header-img: img/5F4A8D4FDC15C735E6158ABB080A8614.png	
 email: ayhtf123@qq.com
 description: "papa save your world"
-keyword: "BY, BY Blog, TF的博客, houtengfei, HTF, iOS, Apple, iPhone"
+keyword: "cv, Segmentation"
 url: "https://tengfeihou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/TengfeiHou/tengfeihou.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Github save your world"
 sidebar-avatar: /img/A7E49DE09E7125731E26213859DE6472.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/A7E49DE09E7125731E26213859DE6472.png      # use absolute UR
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     monsky-hou
+github_username:    TengfeiHou
+facebook_username:  None
+jianshu_username:   None
 #twitter_username:   qiubaiying
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: tengfeihou
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 7466ee2d5cec8c5c2680                            #生成的clientID
+  clientSecret: ba54b0ff8c452902ad4d00a640405488e2838fc9    #生成的clientSecret
+  repo: tengfeihou.github.io    #仓库名称
+  owner: tengfeihou    #github用户名
+  admin: tengfeihou
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
