@@ -5,7 +5,7 @@ title:      unsupervised method in DAVIS dataset
 subtitle:   AGS,MotAdapt,LSMO
 date:       2019-05-17
 author:     HTF
-header-img: img/image.jpg
+header-img: img/Snipaste_2019-05-17_13-15-36.png
 catalog: true
 tags:
     - unsupervised method
