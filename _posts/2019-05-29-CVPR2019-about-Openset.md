@@ -5,7 +5,7 @@ title:      New progress about Openset
 subtitle:   CVPR2019 about Openset
 date:       2019-05-29
 author:     HTF
-header-img: img/openset.png
+header-img: img/image.png
 catalog: true
 tags:
     - flow
