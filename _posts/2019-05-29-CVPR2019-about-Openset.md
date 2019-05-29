@@ -1,11 +1,11 @@
 ---
 
 layout:     post
-title:      flow相关论文
-subtitle:   从flownet到pwcnet
-date:       2019-05-17
+title:      New progress about Openset
+subtitle:   CVPR2019 about Openset
+date:       2019-05-29
 author:     HTF
-header-img: img/flownet.png
+header-img: img/openset.png
 catalog: true
 tags:
     - flow
